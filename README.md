@@ -14,7 +14,7 @@
 - Firebase
 - SASS
 
-## 🚀 Studying
+# 🚀 Studying
 
 - Next.JS
 - GraphQL
